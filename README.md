@@ -1,6 +1,6 @@
 # CandleBridge
 
-[中文](README.zh-CN.md) · [Library API](packages/candlebridge/README.md) · [Model & reproducibility](docs/model.md)
+[Live playground](https://slwyts.github.io/candlebridge/) · [中文](README.zh-CN.md) · [Library API](packages/candlebridge/README.md) · [Model & reproducibility](docs/model.md)
 
 Generate a seeded synthetic price path, then look at it as candlesticks. With the endpoint lock on, the last close is the price you specify; with it off, the path ends wherever the simulation takes it. A five-minute candle and its five one-minute candles describe the **same** underlying path.
 

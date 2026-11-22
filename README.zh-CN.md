@@ -1,6 +1,6 @@
 # CandleBridge
 
-[English](README.md) · [库 API 与格式](packages/candlebridge/README.md) · [模型与复现规则](docs/model.md)
+[在线体验](https://slwyts.github.io/candlebridge/?lang=zh) · [English](README.md) · [库 API 与格式](packages/candlebridge/README.md) · [模型与复现规则](docs/model.md)
 
 CandleBridge 是一个**合成 K 线算法库和交互实验台**。先生成一条 1 秒或 5 秒精度的价格路径，再用同一条路径计算不同周期的开、高、低、收。你可以指定终点，也可以让价格随机走到最后。数据适合测试图表、教学和回放；不是实际行情，不含成交量或订单。
 
